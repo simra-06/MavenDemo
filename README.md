@@ -24,7 +24,17 @@ The project currently uses:
 
 https://www.github.com
 
-**Purpose**
+## Maven Dependency
+
+The project uses Selenium WebDriver through Maven:
+
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.46.0</version>
+</dependency>
+
+## Purpose
 
 This project is created as part of a DevOps practical to demonstrate:
 
